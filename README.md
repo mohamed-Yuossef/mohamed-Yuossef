@@ -8,16 +8,16 @@ I'm a software engineer
 
 - 📫 How to reach me:
 
-  [!["LinkedIn"](https://www.linkedin.com/in/mohamed-youssef-6084a3254/)
-  [!["My Website"](https://my-portfolio-seven-bice-40.vercel.app/)
+  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mohamed-youssef-6084a3254/)
+  [!["My Website"](https://img.shields.io/badge/Website-tarekalabd.com-orange)](https://my-portfolio-seven-bice-40.vercel.app/)
 
 ### Some Projects
-- **Mealify** ([](https://mohamed-yuossef.github.io/mealify/))
-- **DevFolio** ([](https://mohamed-yuossef.github.io/devFolio/))
-- **Login-System** ([](https://mohamed-yuossef.github.io/Login-System/))
-- **Crud** ([](https://mohamed-yuossef.github.io/Crud/)) 
-- **Yummy** ([](https://mohamed-yuossef.github.io/Yummy/))
-- **fresh-cart** ([](https://fresh-cart-five-roan.vercel.app/))
+- **Mealify**  ([Android](https://mohamed-yuossef.github.io/mealify/)) 
+- **DevFolio** ([Android](https://mohamed-yuossef.github.io/devFolio/))
+- **Login-System** ([Android](https://mohamed-yuossef.github.io/Login-System/))
+- **Crud** ([Android](https://mohamed-yuossef.github.io/Crud/)) 
+- **Yummy** ([Android](https://mohamed-yuossef.github.io/Yummy/))
+- **fresh-cart** ([Android](https://fresh-cart-five-roan.vercel.app/))
 
 ### Github Stats
 [![Tarek's Github Stats](https://github-readme-stats.vercel.app/api?username=tarekalabd&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/tarekalabd)
