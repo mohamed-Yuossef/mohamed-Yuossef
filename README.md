@@ -25,4 +25,4 @@ I'm a software engineer
 Do you find my work to be of a value for you?
 You can support me,
 
-[!["MyPortfolio"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://my-portfolio-okok.vercel.app/)
+[!["MyPortfolio"](https://www.custom_images/orange_img.png)](https://my-portfolio-okok.vercel.app/)
