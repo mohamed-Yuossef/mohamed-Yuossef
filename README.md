@@ -19,12 +19,10 @@ I'm a software engineer
 - **Yummy** ([https://mohamed-yuossef.github.io/Yummy/](https://mohamed-yuossef.github.io/Yummy/))
 - **fresh-cart** ([https://fresh-cart-five-roan.vercel.app/](https://fresh-cart-five-roan.vercel.app/))
 
-### Github Stats
-[![Tarek's Github Stats](https://github-readme-stats.vercel.app/api?username=tarekalabd&count_private=true&theme=default&show_icons=true&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/tarekalabd)
 
 ### Want to support?
  
 Do you find my work to be of a value for you?
-You can support me, buy me a **Book**, or a **Coffee**.
+You can support me,
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tarekalabd)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://my-portfolio-okok.vercel.app/)
