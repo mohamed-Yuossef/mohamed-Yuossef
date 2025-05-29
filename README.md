@@ -25,4 +25,4 @@ I'm a software engineer
 Do you find my work to be of a value for you?
 You can support me,
 
-[!["MyPortfolio"](https://my-portfolio-okok.vercel.app/assets/Muhamed%203-B4RGuM62.png)](https://my-portfolio-okok.vercel.app/)
+[!["MyPortfolio"]](https://my-portfolio-okok.vercel.app/)
